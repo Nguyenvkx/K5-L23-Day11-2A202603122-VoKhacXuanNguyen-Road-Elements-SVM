@@ -94,14 +94,6 @@ Kết quả lint hiện tại: 11 cảnh báo, gồm 4 nặng, 6 chính, 1 nhẹ
 4. ![alt text](image-3.png)
 
 
-```xml
-<polyline label="lane" source="manual" occluded="0" points="1279.65,706.27;1187.94,683.58;1078.27,658.30;989.45,636.74;878.76,610.02;789.94,587.33;692.14,564.32;617.86,546.16;535.75,526.77;498.19,518.31;466.32,511.09" z_order="0">
-  <attribute name="position">R2</attribute>
-  <attribute name="style">solid</attribute>
-  <attribute name="color">yellow</attribute>
-  <attribute name="kind">single</attribute>
-</polyline>
-```
 
 ## 7. Tự đánh giá
 
